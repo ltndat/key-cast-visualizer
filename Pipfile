@@ -1,0 +1,23 @@
+[scripts]
+build = "pyinstaller -w --add-data 'assets;assets' --icon assets/icon.ico visualeyer.py"
+start = "python visualeyer.py"
+test = "python -m pytest tests/"
+
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+blurwindow = "*"
+keyboard = "*"
+psutil = "*"
+pyqt6 = "*"
+
+[dev-packages]
+autopep8 = "*"
+pyinstaller = "*"
+pytest = "*"
+
+[requires]
+python_version = "3.10"
