@@ -1,10 +1,8 @@
 # Visualeyer <img src="assets/icon.ico" alt="drawing" width="26"/>
 
----
 
 Visualeyer, an open source keystroke visualizer
 
----
 
 1. Problems:
 
