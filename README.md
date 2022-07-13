@@ -7,7 +7,6 @@ Visualeyer, an open source keystroke visualizer
 1. Problems:
 
    - How to show your keyboard input on the screen?
-   - MacOS have many small toolkit but Windows is not?
    - Are you a engineer and want to observe everything of your pc?
 
 2. Solution:
