@@ -4,6 +4,7 @@
 Visualeyer, an open source keystroke visualizer
 
 
+
 1. Problems:
 
    - How to show your keyboard input on the screen?
@@ -13,5 +14,6 @@ Visualeyer, an open source keystroke visualizer
 
    - Enhanced user experience.
    - Helpful for engineer.
+
 
 © 2022 ltndat <img src="assets/icon.ico" alt="drawing" width="16"/>
