@@ -17,4 +17,5 @@ Visualeyer, an open source keystroke visualizer
 
 
 © 2022 ltndat <img src="assets/icon.ico" alt="drawing" width="16"/>
+
 [source: https://github.com/boppreh/keyboard; https://github.com/boppreh/mouse]
